@@ -1,0 +1,17 @@
+.card-text{
+text-align: justify;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.img .card{
+    width: 50px;
+    heigth: 50px:
+}
+
+.blog h4{
+    text-align: center;
+}
